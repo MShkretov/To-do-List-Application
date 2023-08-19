@@ -1,0 +1,16 @@
+D:\visual\To-do List Application\To-do List Application\bin\Debug\To-do List Application.exe
+D:\visual\To-do List Application\To-do List Application\bin\Debug\To-do List Application.exe.config
+D:\visual\To-do List Application\To-do List Application\bin\Debug\Guna.UI2.dll
+D:\visual\To-do List Application\To-do List Application\obj\Debug\To-do List Application.csproj.AssemblyReference.cache
+D:\visual\To-do List Application\To-do List Application\obj\Debug\To-do List Application.csproj.SuggestedBindingRedirects.cache
+D:\visual\To-do List Application\To-do List Application\obj\Debug\To_do_List_Application.CompletedTasksForm.resources
+D:\visual\To-do List Application\To-do List Application\obj\Debug\To_do_List_Application.DetailsForm.resources
+D:\visual\To-do List Application\To-do List Application\obj\Debug\To_do_List_Application.MainForm.resources
+D:\visual\To-do List Application\To-do List Application\obj\Debug\To_do_List_Application.NewTaskForm.resources
+D:\visual\To-do List Application\To-do List Application\obj\Debug\To_do_List_Application.Properties.Resources.resources
+D:\visual\To-do List Application\To-do List Application\obj\Debug\To-do List Application.csproj.GenerateResource.cache
+D:\visual\To-do List Application\To-do List Application\obj\Debug\To-do List Application.csproj.CoreCompileInputs.cache
+D:\visual\To-do List Application\To-do List Application\obj\Debug\To-do List Application.csproj.CopyComplete
+D:\visual\To-do List Application\To-do List Application\obj\Debug\To-do List Application.exe
+D:\visual\To-do List Application\To-do List Application\obj\Debug\To-do List Application.pdb
+D:\visual\To-do List Application\To-do List Application\bin\Debug\To-do List Application.pdb
